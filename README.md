@@ -10,10 +10,10 @@ Analogías para explicar conceptos de programación y JavaScript.
 - **2. Qué es programar?**  
   Indicar el _*procedimiento*_ para hacer algo (orden, tiempo, lugar, forma, condiciones).
 - **3. Qué es un lenguaje de programación?**  
-  Algo que nos permite _*hablar*_ con un computador.
-- **4. Para qué quiero hablarle a un computador?**  
-  Para darle _*instrucciones*_ sobre lo que quiero que haga.
-- **5. Qué tipos de instrucciones puedo darle a un computador?**  
+  Algo que nos permite _*hablarle*_ a un computador.
+- **4. Para qué queremos hablarle a un computador?**  
+  Para darle _*instrucciones*_ sobre lo que queremos que haga.
+- **5. Qué tipos de instrucciones podemos darle a un computador?**  
   Aritméticas (suma/resta/...), lógicas (verdadero/falso), comunicaciones (enviar/recibir), etc.
 
 # Capítulo II: Símbolos de un lenguaje
