@@ -16,7 +16,7 @@ Analogías para explicar conceptos de programación y JavaScript.
 - **5. Qué tipos de instrucciones puedo darle a un computador?**  
   Aritméticas (suma/resta/...), lógicas (verdadero/falso), comunicaciones (enviar/recibir), etc.
 
-# Capítulo 2: Símbolos de un lenguaje
+# Capítulo II: Símbolos de un lenguaje
 
 - **1. Qué es un símbolo?**  
   Algo que representa una _*idea*_ o transmite un significado.
